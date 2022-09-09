@@ -5,3 +5,5 @@ function solution($a, $x) {
 
 $hoi = "Dit is een test, werkt het?";
 return $hoi;
+
+$kanJeDitLezen = "HOI";
